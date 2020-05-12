@@ -1,5 +1,5 @@
-# GRAFICACION-AVANZADA
+# GRAFICACION POR COMPUTADORA AVANZADA
 
-INTEGRANTES:
-Osiel Enrique Martinez Quiroz
-Bryan Daniel Ledezma Viveros
+INTEGRANTES:                    MATRICULA:
+Osiel Enrique Martinez Quiroz   1730368
+Bryan Daniel Ledezma Viveros    1730242
